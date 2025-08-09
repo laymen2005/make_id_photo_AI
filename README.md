@@ -5,4 +5,4 @@
 ## 使用
 
 运行make_id_photo_AI.py
-![效果预览](demoScreenshot_2.png)
+![效果预览](Screenshot_2.png)
